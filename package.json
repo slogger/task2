@@ -1,0 +1,15 @@
+{
+  "name": "shri-cms",
+  "version": "1.0.0",
+  "description": "task2 for shri4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slogger/task2.git"
+  },
+  "author": "Maxim Syrykh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slogger/task2/issues"
+  },
+  "homepage": "https://github.com/slogger/task2#readme"
+}
